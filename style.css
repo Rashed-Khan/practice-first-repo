@@ -4,7 +4,7 @@ body {
 }
 
 section {
-    height: 600px;
+    height: 500px;
     padding-bottom: 15px;
 }
 
@@ -14,9 +14,10 @@ section {
 }
 
 .half-width {
-    width: 50%;
+    width: 40%;
+    float: left;
     margin-left: 5%;
-    padding-left: 5%;
+    padding-left: 2%;
 
 }
 
@@ -48,8 +49,4 @@ h2 {
 
 p {
     color: dimgray;
-}
-
-.experience-area {
-    display: flex;
 }
